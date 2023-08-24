@@ -61,6 +61,7 @@ Final grade might be computed as follows:
 - 55% - 61% C-
 - 40% - 54% D
 - <40% F
+  
 However, someone with a final score of 83 might also get an A, depending on the overall success of the
 students. (Of course, same thing might happen in the opposite direction).
 Course Policies
