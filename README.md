@@ -18,6 +18,7 @@ Verlag. This book is available for free online at https://hastie.su.domains/Elem
 - Programming in Python 3: A Complete Introduction to the Python Language by M. Summerfield
 
   First two books might be considered as required book for this course.
+  
 ## Python Packages (Tentative)
 - **Analysis:** NumPy and SciPy
 - **Handling Data:** Pandas
