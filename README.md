@@ -17,7 +17,7 @@ Verlag. This book is available for free online at https://hastie.su.domains/Elem
 - Python Programming: An Introduction to Computer Science by John Zelle
 - Programming in Python 3: A Complete Introduction to the Python Language by M. Summerfield
 
-  First two books might be considered as required book for this course.
+  First two books might be considered as required coursebook for this course.
   
 ## Python Packages (Tentative)
 - **Analysis:** NumPy and SciPy
