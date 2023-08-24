@@ -51,16 +51,16 @@ Students will complete weekly/bi-weekly assignments and a project to gain practi
 - Project: 33%
 
 Final grade might be computed as follows: 
-90% - 100% A
-86% - 89% A-
-82% - 85% B +
-76% - 81% B 
-70% - 75% B-
-66% - 69% C+
-62% - 65% C
-55% - 61% C-
-40% - 54% D
-<40% F
+- 90% - 100% A
+- 86% - 89% A-
+- 82% - 85% B +
+- 76% - 81% B 
+- 70% - 75% B-
+- 66% - 69% C+
+- 62% - 65% C
+- 55% - 61% C-
+- 40% - 54% D
+- <40% F
 However, someone with a final score of 83 might also get an A, depending on the overall success of the
 students. (Of course, same thing might happen in the opposite direction).
 Course Policies
