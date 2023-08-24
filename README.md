@@ -10,13 +10,14 @@ Enrollment in the Data Science program.
 
 ## Recommended References
 - The Elements of Statistical Learning (2nd edition) by Hastie, Tibshirani and Friedman (2009), Springer-
-Verlag. This book is available for free online at https://web.stanford.edu/ ̃hastie/ElemStatLearn/ and
+Verlag. This book is available for free online at https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12.pdf and
 - An Introduction to Statistical Learning with Applications with application in Python, by James, Witten, Hastie, Tibshirani and Tylor
 (2023), Springer. This book is available for free online at https://www.statlearning.com
 - Python package user guides (NumPy User Guide, Pandas Reference Guide, etc.)
 - Python Programming: An Introduction to Computer Science by John Zelle
 - Programming in Python 3: A Complete Introduction to the Python Language by M. Summerfield
-- 
+
+  First two books might be considered as required book for this course.
 ## Python Packages (Tentative)
 - **Analysis:** NumPy and SciPy
 - **Handling Data:** Pandas
